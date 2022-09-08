@@ -1,0 +1,2 @@
+#!/bin/bash
+hear -10 /etc/passwd
