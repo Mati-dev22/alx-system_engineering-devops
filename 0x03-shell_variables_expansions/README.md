@@ -7,3 +7,4 @@ script that creates a new local variable
 script that creates a new global variable
 prints the result of the addition...
 prints the result of POWER divided by DIVIDE
+displays the result of BREATH to the power LOVE
