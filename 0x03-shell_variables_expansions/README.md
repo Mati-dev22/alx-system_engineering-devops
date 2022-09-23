@@ -12,3 +12,4 @@ converts a number from base 2 to base 10
 all possible combinations of two letters
 prints a number with two decimal places
 converts a number from base 10 to base 16
+encodes and decodes text using the rot13 encryption
