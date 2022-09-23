@@ -17,3 +17,4 @@ displays the 10 newest files in the current directory
 101-gifs
 102-acrostic
 103-the_biggest_fan
+102-acrostic
