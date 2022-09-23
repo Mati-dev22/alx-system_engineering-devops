@@ -9,3 +9,4 @@ displays the 10 newest files in the current directory
 16-whatsnext
 17-hidethisword
 18-letteronly
+19-AZ
