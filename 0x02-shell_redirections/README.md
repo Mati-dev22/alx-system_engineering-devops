@@ -8,3 +8,4 @@ displays the 10 newest files in the current directory
 15-countthatword
 16-whatsnext
 17-hidethisword
+18-letteronly
