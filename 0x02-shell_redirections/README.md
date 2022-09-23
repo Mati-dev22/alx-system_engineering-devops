@@ -14,3 +14,4 @@ displays the 10 newest files in the current directory
 21-reverse
 22-users_and_homes
 100-empty_casks
+101-gifs
