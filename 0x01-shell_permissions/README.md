@@ -10,3 +10,4 @@ execution permission to others
 sets the permission
  sets the mode of the file
 sets the mode of the file
+adds execute permission to all subdirectories
