@@ -7,3 +7,4 @@ displays the 10 newest files in the current directory
 14-findthatword
 15-countthatword
 16-whatsnext
+17-hidethisword
